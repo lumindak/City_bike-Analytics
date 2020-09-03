@@ -18,3 +18,5 @@ There are three gender groups in the data set. Males (indicated by ‘1’), Fem
 
 2.4	Why some bike stations are more popular?
 By analyzing the top 10 starting and ending stations, it revealed that top 5 stations for starting and ending are the same. This is an interesting result and needed more digging to find out why. After looking at several parameters without much success, I looked at the map for any clues. The map shows four of the top five stations located near subway stations. The other bike station is located near the Hamilton park. Hamilton park seems to be a popular place among the bikers. This shows where the bike stations should be located.
+
+url: https://lumindak.github.io/City_bike-Analytics/.
